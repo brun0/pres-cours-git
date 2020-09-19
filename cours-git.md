@@ -1,15 +1,29 @@
----
+% Introduction to Git \[git\]
+% Bruno Bonté (Slides from Robin Passama)
+% MISSABMS 2020
 
-# H1 or H2 is a Section Title
-
----
-
-Normal Text for Slide Title
-
-- Bullet
-- Bullet
+# Introduction
 
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+What is Git?
+
+- A Version Control System
+	* To keep track of changes
+- Initialy developped by Linus Torvalds to developp Linux kernel
+
+---
+
+Main interest of Git?
+
+- Dedicated to collaborative work, each developper has his repository
+- Initialy developped by Linus Torvalds to developp Linux kernel
+
+---
+
+# Principle, Basics concepts and basic commands
+
+# Example of this presentation git repository
+
+# Create your Model Git repository
 
