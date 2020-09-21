@@ -33,5 +33,11 @@ date: MISSABMS 2020
 
 # Example of this presentation git repository
 
+- Observe the commit history
+- Navigate over versions
+
 # Create your Model Git repository
 
+- Create a GitHub account
+- Download GitKraken
+- Create a new repository and push it on GitHub
