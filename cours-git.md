@@ -35,3 +35,6 @@ date: MISSABMS 2020
 
 # Create your Model Git repository
 
+# Thank you!
+- Thank you
+
